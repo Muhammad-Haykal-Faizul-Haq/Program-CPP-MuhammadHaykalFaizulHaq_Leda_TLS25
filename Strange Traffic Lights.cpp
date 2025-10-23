@@ -2,7 +2,6 @@
 using namespace std;
 // Muhammad Haykal Faizul Haq
 // Leda
-// 25/560398/TK/63292
 // Strange Traffic Lights
 
 int main(){
@@ -27,4 +26,5 @@ int main(){
     } while (t != 0);
 
     cout << "Terima Kasih";
+
 }
