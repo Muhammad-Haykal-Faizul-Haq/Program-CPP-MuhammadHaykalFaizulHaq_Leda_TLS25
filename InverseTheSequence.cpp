@@ -2,7 +2,6 @@
 using namespace std;
 // Muhammad Haykal Faizul Haq
 // Leda
-// 25/560398/TK/63292
 // Inverse The Sequence
 
 int balikDigit(int m){
@@ -60,4 +59,5 @@ int main (){
     } while (Retry == 'Y' || Retry == 'y');
 
     return 0;
+
 }
