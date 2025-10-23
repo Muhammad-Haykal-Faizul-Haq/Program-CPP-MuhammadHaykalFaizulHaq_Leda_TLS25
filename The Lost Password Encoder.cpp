@@ -4,7 +4,6 @@
 using namespace std;
 // Muhammad Haykal Faizul Haq
 // Leda
-// 25/560398/TK/63292
 // The Lost Password Encoder
 // Kode Mesin Misterius
 
@@ -65,3 +64,4 @@ int main() {
     cout << "\nTerima Kasih!\n";
     system("pause");
 }
+
